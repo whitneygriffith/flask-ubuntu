@@ -1,0 +1,1 @@
+This is a basic flask application configured to run on an Ubuntu VM
